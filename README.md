@@ -3,7 +3,7 @@
 ![Dashboard Clip](images/dashboard_clip.gif)
 
 Power BI Link is here:
-[Data_Jobs_Dashboard.pbix](/)
+[Data_Jobs_Dashboard.pbix](/files_powerbi/Data_Jobs_Dashboard.pbix)
 
 ## Introduction
 
