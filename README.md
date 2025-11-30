@@ -4,6 +4,8 @@
 
 Power BI Link is here:
 [Data_Jobs_Dashboard.pbix](/files_powerbi/Data_Jobs_Dashboard.pbix)
+Note: You will see _(Sorry about that, but we can’t show files that are this big right now.)_
+Please click **View Raw** to download the Power BI file.
 
 ## Introduction
 
